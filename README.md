@@ -1,6 +1,7 @@
 THANKS TO THE ORIGINAL CREATOR Imagine#5120
-ALL THE CREDIT IS TO HIM I JUST FIXED HIS CODE :)
+ALL THE CREDIT GOES TO HIM I JUST FIXED HIS CODE :)
 
+HERE IS HIS SOURCE : https://github.com/Imagine-YT/Roblox-Account-Generator
 
 Roblox Account Generator
 - Automatically Generates Roblox Accounts
