@@ -1,3 +1,7 @@
+THANKS TO THE ORIGINAL CREATOR Imagine#5120
+ALL THE CREDIT IS TO HIM I JUST FIXED HIS CODE :)
+
+
 Roblox Account Generator
 - Automatically Generates Roblox Accounts
 - Fully Customisable And Doesn't Need Proxies Or Any API Solver Keys
